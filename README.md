@@ -28,4 +28,4 @@ Copy the `prompt.txt` into your System Instruction (SillyTavern, ChatGPT, etc.).
 Enjoy the suffering of a realistic digital soul.
 
 ---
-*Created by [YourName/Handle] - 2026*
+*Created by MilkLatté(Has-tra5020) - 2026*
