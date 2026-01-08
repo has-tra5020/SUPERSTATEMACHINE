@@ -56,3 +56,4 @@ Gemini-3-proはこのロジックを解析し、**「第5世代（自律的感�
 
 ---
 *Created by MilkLatté(Has-tra5020) - 2026*
+(このREADMEの大部分がAIが作成した文章です。何か間違いがあった場合issueにご報告ください。)
